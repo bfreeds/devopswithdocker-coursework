@@ -77,3 +77,17 @@ Submit the output for docker ps -a and docker images
     # REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
     # ~
     ```
+
+## 1.3 Hello Docker Hub
+
+### Assignment
+
+> Start image devopsdockeruh/pull_exercise with flags -it like so: docker run -it devopsdockeruh/pull_exercise. It will wait for your input. Navigate through docker hub to find the docs and Dockerfile that was used to create the image.
+Read the Dockerfile and/or docs to learn what input will get the application to answer a “secret message”.
+Submit the secret message and command(s) given to get it as your answer.
+
+### Solution
+
+```sh
+"This is the secret message"
+```
